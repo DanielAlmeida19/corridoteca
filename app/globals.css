@@ -6,3 +6,10 @@ body {
     background-color: #24273a;
     color: #cad3f5;
 }
+
+nav {
+    display: flex;
+    /*flex-direction: row;*/
+    justify-content: center;
+    align-items: center;
+}
